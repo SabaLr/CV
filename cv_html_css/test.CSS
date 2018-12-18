@@ -1,0 +1,55 @@
+.page{
+	width: 750px;
+	margin: auto;
+	font-size: 16px;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+.infophoto{
+	height: 200px;
+	background-color: powderblue;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.info{
+	float: left;
+}
+.photo{
+	float: right;
+}
+.section{
+	margin-bottom: 10px;
+	border: solid;
+	margin-top: 10px;
+	padding-left: 10px;
+	margin-right:10PX;
+}
+.sec-gauche{
+	border: solid;
+	margin-top: 10px;
+	padding-left: 10px;
+	margin-right:10PX;
+}
+.sec-droite{
+	margin-left: 150px;
+}
+.lang{
+    border: solid;
+	margin-top: 10px;
+	padding-left: 10px;
+	margin-right:10PX;
+	margin-bottom: 10px;
+}
+#languages{
+     margin-top: 10px;
+
+}
+.form1{
+	width: auto;
+}
+#gol {
+	border: solid;
+	margin-top: 10px;
+	padding-left: 10px;
+	margin-right:10PX;
+}
